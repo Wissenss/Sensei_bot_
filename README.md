@@ -1,2 +1,2 @@
 # Sensei_bot
-A discord bot that allow server memebers to re-live the partially the club penguin experience
+A discord bot that allow server memebers to partially re-live the the club penguin experience
