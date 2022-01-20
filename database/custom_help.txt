@@ -1,0 +1,5 @@
+**=help** Show this message
+**=stats** Show your card-jitsu statistics | belt color, score, and currency
+**=belts** Show all belt ranks available
+**=jitsu <member_mention>** Begin a card-jitsu match. This command takes 1 argument: **<member_mention>** a mention to a server member. If **None** provided a match against **"The Sensei"** will begin
+**=invite** Get an OAuth2 link to invite this bot into your server

@@ -1,0 +1,2 @@
+OOP for cards | Card class
+ - read class members from file. Make an object array for each player.
